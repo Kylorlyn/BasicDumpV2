@@ -1,0 +1,20 @@
+{
+    "buttons": {
+        "attack": "0x186C840",
+        "attack2": "0x186C8D0",
+        "back": "0x186CB10",
+        "duck": "0x186CDE0",
+        "forward": "0x186CA80",
+        "jump": "0x186CD50",
+        "left": "0x186CBA0",
+        "lookatweapon": "0x1A92E50",
+        "reload": "0x186C7B0",
+        "right": "0x186CC30",
+        "showscores": "0x1A92D30",
+        "sprint": "0x186C720",
+        "turnleft": "0x186C960",
+        "turnright": "0x186C9F0",
+        "use": "0x186CCC0",
+        "zoom": "0x1A92DC0"
+    },
+}
